@@ -1,0 +1,5 @@
+effect,number_of_effects,fraction_CI_excludes_zero,fraction_CI_contains_known_truth,mean_CI_width
+Delta_weak_association,4000,0.62475,0.95225,0.8001918792724609
+Delta_strong_association,4000,0.63575,0.95225,0.7942689657211304
+DeltaDelta_weak_association,398000,0.23786934673366833,0.9532663316582914,1.1268641948699951
+DeltaDelta_strong_association,398000,0.228143216080402,0.950140703517588,1.114792823791504

@@ -1,0 +1,3 @@
+effect,number_of_effects,fraction_CI_excludes_zero,fraction_CI_contains_known_truth
+Delta_ij,4000,0.6415,0.95975
+DeltaDelta_ikj,398000,0.23743467336683416,0.9598643216080402

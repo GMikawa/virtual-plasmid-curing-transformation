@@ -1,0 +1,5 @@
+effect,number_of_effects,fraction_CI_excludes_zero,fraction_CI_contains_known_truth,mean_CI_width
+Delta_realized_feature_fit,4000,0.645,0.93125,0.7717265486717224
+Delta_fixed_feature_fit,4000,0.6385,0.89725,0.7913776636123657
+DeltaDelta_realized_feature_fit,398000,0.3183643216080402,0.9243090452261307,1.0869826078414917
+DeltaDelta_fixed_feature_fit,398000,0.27626130653266334,0.8878894472361809,1.1118777990341187
